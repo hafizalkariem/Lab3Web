@@ -6,7 +6,7 @@
 # Langkah-langkah Praktikum 
 ![ss6](https://github.com/hafizalkariem/Database_Penjualan_tiket_bus/assets/115614957/6bdace5f-669e-49b6-9ebb-a2495fc9f65c)
 
-| [LIST](membuat-file-html-dengan-nama-lab3listhtml) | [TABEL](#membuat-tabel-dengan-nama-file-lab3_tabelhtml) | [FORM](#membuat-form-dengan-nama-file-lab3_formhtml-) | [DROPDOWN](#pertanyaan-dan-tugas) |
+| [LIST](#membuat-file-html-dengan-nama-lab3listhtml) | [TABEL](#membuat-tabel-dengan-nama-file-lab3_tabelhtml) | [FORM](#membuat-form-dengan-nama-file-lab3_formhtml-) | [DROPDOWN](#pertanyaan-dan-tugas) |
 | :--- | :--- | :--- | :--- |
 
 <h2 align="center" >Membuat file HTML dengan nama Lab3List.html</h2>
