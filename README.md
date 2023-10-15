@@ -6,6 +6,9 @@
 # Langkah-langkah Praktikum 
 ![ss6](https://github.com/hafizalkariem/Database_Penjualan_tiket_bus/assets/115614957/6bdace5f-669e-49b6-9ebb-a2495fc9f65c)
 
+| [LIST](membuat-file-html-dengan-nama-lab3listhtml) | [TABEL](#membuat-tabel-dengan-nama-file-lab3_tabelhtml) | [FORM](#membuat-form-dengan-nama-file-lab3_formhtml-) | [DROPDOWN](#pertanyaan-dan-tugas) |
+| :--- | :--- | :--- | :--- |
+
 <h2 align="center" >Membuat file HTML dengan nama Lab3List.html</h2>
 
 ```html
@@ -213,7 +216,53 @@ Setelah itu buat tagar select untuk opsi pilihan yang akan diisi.karena perintah
 </select>
 ```
 Anda juga bisa menambahkan banyak opsi lainnya yang bisa dimasukan kedalam form dropdown tsb. setelah listnya sudah semua jangan lupa berikan tombol untuk mensubmit data yang kita isi.
-
 ```html
 <input type="submit" value="submit" class="submit" />
 ```
+agar tampilannya tidak monoton kita bisa menambahkan beberapa style css seperti berikut :
+```css
+<style>
+      body {
+        background-color: rgb(246, 247, 247);
+        padding: 0px;
+        margin: 0px;
+        font-family: sans-serif;
+      }
+      h1 {
+        text-align: center;
+        margin: 0px;
+        padding: 20px;
+      }
+      .navbar {
+        background-color: rgb(5, 241, 24);
+      }
+      select {
+        width: 100px;
+        border-color: rgb(39, 148, 6);
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+      }
+      .Biodata {
+        margin: 0px auto;
+        padding: 0px auto;
+        border-color: #197a43;
+      }
+      .submit {
+        border: 1px solid #197a43;
+        background-color: #197a43;
+        color: #ffffff;
+        font-weight: bold;
+        padding: 5px 15px;
+        border-radius: 10px;
+        transition: background-color 0.5s;
+      }
+      .submit:hover {
+        background-color: #0e2016;
+      }
+```
+Berikut hasil capture dari file <b>dropdown.html</b>:
+![Screenshot 2023-10-15 203430](https://github.com/hafizalkariem/ProjectUAS/assets/115614957/6f5c374b-5893-4420-89d1-2aebd409c021)
+
+<h2 align="center">TERIMAKASIH</h2>
+
